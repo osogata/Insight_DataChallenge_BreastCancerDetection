@@ -1,4 +1,4 @@
-# Insight_DataChallenge_W5
+# Insight_DataChallenge_BreastCancerDetection
 
 Data challenge exercise completed within 4 hours during Insight 2020A Data Science session in New York.
 
